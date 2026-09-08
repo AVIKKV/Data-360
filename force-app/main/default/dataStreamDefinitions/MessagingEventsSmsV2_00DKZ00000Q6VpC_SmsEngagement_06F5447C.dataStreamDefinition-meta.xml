@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataStreamDefinition xmlns="http://soap.sforce.com/2006/04/metadata">
+    <areHeadersIncludedInFile>false</areHeadersIncludedInFile>
+    <bulkIngest>false</bulkIngest>
+    <creationType>Custom</creationType>
+    <dataConnector>MessagingEventsSmsV2_00DKZ00000Q6VpC_35fa0796_44da_438b_aad7_93753ff3d557</dataConnector>
+    <dataConnectorType>IngestApi</dataConnectorType>
+    <dataExtractMethods>FULL_REFRESH</dataExtractMethods>
+    <dataPlatformDataSetItemName>INGESTAPI</dataPlatformDataSetItemName>
+    <dataSource>MessagingEventsSmsV2_00DKZ00000Q6VpC_35fa0796_44da_438b_aad7_93753ff3d557</dataSource>
+    <isLimitedToNewFiles>false</isLimitedToNewFiles>
+    <isMissingFileFailure>false</isMissingFileFailure>
+    <masterLabel>MessagingEventsSmsV2_00DKZ00000Q6VpC-SmsEngagement</masterLabel>
+    <mktDataLakeObject>MessagingEventsSmsV2_00DKZ00000_06F5447C__dll</mktDataLakeObject>
+    <mktDataTranObject>MessagingEventsSmsV2_00DKZ00000_06F5447C</mktDataTranObject>
+</DataStreamDefinition>
