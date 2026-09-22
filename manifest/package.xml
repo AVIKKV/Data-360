@@ -1,61 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
-   
-
     <types>
-        <members>AbnExperimentCohort_Home</members>
-        <members>AbnExperiment_Home</members>
-        <members>Account_Home</members>
-        <members>Activity_Import_Website_Interaction_E3550EF8</members>
-        <members>BulkMessage_Home</members>
-        <members>CampaignMember_Home</members>
-        <members>Campaign_Home</members>
-        <members>CommSubscriptionChannelType_Home</members>
-        <members>CommSubscription_Home</members>
-        <members>ConsentAuditTrailV2_ConsentAuditTrail_06F00C21</members>
-        <members>Contact_Home</members>
-        <members>CurrencyType_Home</members>
-        <members>DC_DEPLOY_SOURCE_c_Home</members>
-        <members>EngagementChannelType_Home</members>
-        <members>ExperimentationLog_experimentation_0B15D6C9</members>
-        <members>FlowRecordElement_Home</members>
-        <members>FlowRecordVersionOccurrence_Home</members>
-        <members>FlowRecordVersion_Home</members>
-        <members>FlowRecord_Home</members>
-        <members>Flow_Run_Ingestion_FlowElementRun_06E8BE00</members>
-        <members>Flow_Run_Ingestion_FlowRun_06E8BE01</members>
-        <members>Flow_Run_Ingestion_IdentityMatch_06E8BDFD</members>
-        <members>IngestionAPIConnector_Sale_70514D8E</members>
-        <members>Lead_Home</members>
-        <members>ListEmail_Home</members>
-        <members>ManagedContentPublishedUrl_Home</members>
-        <members>ManagedContent_Home</members>
-        <members>MarketSegment_Home</members>
-        <members>MessagingChannelUsage_Home</members>
-        <members>MessagingChannel_Home</members>
-        <members>MessagingConsentV2_MessagingConsent_0702850D</members>
-        <members>MessagingEventsEmailV2_00DKZ00000Q6VpC_EmailEngagement_06FF3A42</members>
-        <members>MessagingEventsSmsV2_00DKZ00000Q6VpC_SmsEngagement_06F5447C</members>
-        <members>MessagingEventsWhatsAppV2_00DKZ00000Q6VpC_WhatsappEngagement_06F1BA13</members>
-        <members>OpportunityContactRole_Home</members>
-        <members>Opportunity_Home</members>
-        <members>PersnlRcmdItemLog_recommendationItemLog_D39CB7C1</members>
-        <members>PersnlRcmdLog_recommendationLog_2600A9F0</members>
-        <members>PersonalizationDecision_Home</members>
-        <members>PersonalizationLog_personalization_0B13FF2E</members>
-        <members>PersonalizationPoint_Home</members>
-        <members>PersonalizationRecommender_Home</members>
-        <members>PersonalizationSchema_Home</members>
-        <members>Prospect_Home</members>
-        <members>User_Home</members>
-        <members>WebEngagementEventsV2_00DKZ00000Q6VpC_DeviceToIndividualMatch_06ECF308</members>
-        <name>DataStreamDefinition</name>
+        <members>CICD_DEPLOY1_c_Home</members>
+        <members>SalesforceDotCom_Home1</members>
+        <name>DataKitObjectDependency</name>
     </types>
     <types>
-        <members>DC_DEPLOY_SOURCE_c_Home_1787725692827</members>
-        <members>Sale_Detail_1784563425935</members>
+        <members>CICD_DEPLOY1_c_Home</members>
+        <members>SalesforceDotCom_Home</members>
+        <name>DataKitObjectTemplate</name>
+    </types>
+    <types>
+        <members>DC_DEPLOY_092226</members>
+        <name>DataPackageKitDefinition</name>
+    </types>
+    <types>
+        <members>DC_DEPLOY_092226_1790048361645</members>
+        <members>DC_DEPLOY_092226_1790048362287</members>
+        <name>DataPackageKitObject</name>
+    </types>
+    <types>
+        <members>Salesforce_Home</members>
+        <name>DataSource</name>
+    </types>
+    <types>
+        <members>DC_DEPLOY_DB1</members>
+        <name>DataSourceBundleDefinition</name>
+    </types>
+    <types>
+        <members>CICD_DEPLOY1_c_Home1</members>
+        <name>DataSourceObject</name>
+    </types>
+    <types>
+        <members>CICD_DEPLOY1_c_Home_1790048362302</members>
         <name>DataStreamTemplate</name>
-    </types>      
-
+    </types>
     <version>67.0</version>
 </Package>

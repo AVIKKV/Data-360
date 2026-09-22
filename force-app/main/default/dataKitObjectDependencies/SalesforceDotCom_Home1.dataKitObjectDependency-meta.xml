@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataKitObjectDependency xmlns="http://soap.sforce.com/2006/04/metadata">
+    <dataPackageKitDef>DC_DEPLOY_092226</dataPackageKitDef>
+    <developerName>SalesforceDotCom_Home1</developerName>
+    <masterLabel>Salesforce Connector Capgemini Parent Account Home</masterLabel>
+    <sourceObject>CICD_DEPLOY1_c_Home_1790048362302</sourceObject>
+    <sourceObjectType>DataStreamTemplate</sourceObjectType>
+    <targetObject>SalesforceDotCom_Home</targetObject>
+</DataKitObjectDependency>

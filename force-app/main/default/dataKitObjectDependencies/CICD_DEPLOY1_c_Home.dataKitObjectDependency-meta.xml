@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataKitObjectDependency xmlns="http://soap.sforce.com/2006/04/metadata">
+    <dataPackageKitDef>DC_DEPLOY_092226</dataPackageKitDef>
+    <developerName>CICD_DEPLOY1_c_Home</developerName>
+    <masterLabel>CICD_DEPLOY1_c_Home__dll</masterLabel>
+    <sourceObject>CICD_DEPLOY1_c_Home1</sourceObject>
+    <sourceObjectType>DataSourceObject</sourceObjectType>
+    <targetObject>CICD_DEPLOY1_c_Home</targetObject>
+</DataKitObjectDependency>
